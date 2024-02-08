@@ -27,14 +27,14 @@ function getString(groups, taskIndex) {
 
 const stringGroups = [
     [
-        'Hello',
-        'World',
-        'Revolution'
+        'Hello', //       0
+        'World', //       1
+        'Revolution' //   2
     ],
     [
-        'Apple',
-        'Cherry',
-        'Constitution'
+        'Apple', //       3
+        'Cherry', //      4
+        'Constitution' // 5
     ],
 ];
 
